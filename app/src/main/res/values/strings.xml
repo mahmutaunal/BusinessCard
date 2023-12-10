@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_surname">Mahmut Alperen Ünal</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">+90 555 555 55 55</string>
+    <string name="email_text">alperen@gmail.com</string>
+    <string name="share_text">alperen@android.com</string>
+</resources>
